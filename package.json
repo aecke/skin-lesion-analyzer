@@ -1,0 +1,38 @@
+{
+  "name": "dermaguide",
+  "displayName": "DermaGuide - KI-Hautanalyse-Assistent",
+  "description": "Eine KI-gestützte mobile Anwendung zur Unterstützung bei der Hautkrebsfrüherkennung",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "author": {
+    "name": "Student Name",
+    "email": "student@university.de"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": [
+    "dermaguide",
+    "hautanalyse",
+    "ki",
+    "gesundheit",
+    "medizin",
+    "hautkrebs",
+    "früherkennung"
+  ]
+}
